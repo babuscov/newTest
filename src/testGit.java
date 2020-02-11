@@ -3,5 +3,6 @@ public class testGit {
         System.out.println ("test git");
         System.out.println ("new");
         System.out.println ("new1");
+        System.out.println ("new1");
     }
 }
